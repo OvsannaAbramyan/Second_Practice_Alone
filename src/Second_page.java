@@ -6,3 +6,5 @@ public class Second_page {
 // created main method.
 
 // created method and variables.
+
+// ran the method.
